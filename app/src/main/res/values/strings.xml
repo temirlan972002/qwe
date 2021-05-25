@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Temirlan Rakhimbaev and my id:201297</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Temirlan.
+\n\n I am from Astana
+\n\nBut I was born in Karaganda
+\nFun fact is that I am really good on C++
+</string>
+
+</resources>
